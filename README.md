@@ -14,8 +14,8 @@ The goal of this project was to collect data from suicides rates and interpretin
 
 ## Initial hipoteses
 
-- "Does GDP as a correlation for depression/suicidal rates?"
-- "Does Human Development Index as a correlation for depression/suicidal rates?"
+- "Does GDP as a correlation with depression/suicidal rates?"
+- "Does Human Development Index as a correlation with depression/suicidal rates?"
 - "Does unemployment have an effect suicidal rates/depression?"
 - "Does urbanization effects suicidal/depression rates?"
 - "Does Life ladder as an effect on suicidal/depression rates?"
