@@ -19,6 +19,9 @@ The goal of this project was to collect data from suicides rates and interpretin
 - "Does unemployment have an effect suicidal rates/depression?"
 - "Does urbanization effects suicidal/depression rates?"
 - "Does Life ladder as an effect on suicidal/depression rates?"
+- "Does gender gap between male/female as any correlation with depression gap?"
+- "Does unemployment gap as any correlation with male suicidal rates?"
+- "Does education level as any correlation with depression/suicidal rates?" 
 
 
 
