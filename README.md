@@ -49,11 +49,12 @@ The goal of this project was to collect data from suicides rates and interpretin
 
 ## Resources
 
+main dataset
 <a href='https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016'>suicide-rates-overview-1985-to-2016</a>
 
-<a href='https://ourworldindata.org/'/a>
+<a href='https://ourworldindata.org/'>Our world data</a>
 
-<a href='http://hdr.undp.org/en/data'/a>
+<a href='http://hdr.undp.org/en/data'>Human Development Data (1990-2018)</a>
 
 
 
