@@ -1,0 +1,35 @@
+depression_world_statics.png
+
+# is there some kind of sinus wave in terms of people getting depression?
+
+
+
+heatmap.png
+
+# there is a high correlation between life satisfaction level (life_ladder) 
+    # and gdp per capita / human development index(hdi_undp)
+
+# there is also a high correlation between human development index 
+    # and life satisfaction / gdp per capita
+
+# the strongest correlation is between human development index / gdp per capita 
+
+# there is no significant correlation between percentage of people suffering depression and following values:
+    # (human development index, life satisfaction, gdp per capita)
+
+# conclusion: depression seems universal, not correlated with development index or gdp per capita
+
+
+gpd_depression_allCountries.png, group1.jpg, group2.jpg
+
+# there are three clusters, next lets try to find out which country belongs to which cluster
+
+# we look at two clusters, both have high gdp per capita, but differing by people suffering from depression
+
+# no real conclusion can be drawn. the only hypothesis I can come up with is people in
+
+# traditional conservative countries seem less likely to suffer from depression or less likely
+
+# to report depression
+
+
