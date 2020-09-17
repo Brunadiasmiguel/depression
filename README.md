@@ -76,7 +76,10 @@ Due to our large amount of data and general topic set up, we found some problems
 The repository is organised as:
 
 - data folder: containing all the datasets on dataset bullet point
-- 
+- data-wrangling folder: containing new merged datasets and jupyter notebooks
+- Analysis folder: jupyter notebooks with statistic analysis
+- Ploting folder: plots from jupyter notebook
+- Tableau Presentation folder: tableau file  
 
 
 ## Links
