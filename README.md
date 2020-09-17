@@ -22,7 +22,7 @@ The goal of this project was to collect data from suicides rates and interpretin
 - "Does gender gap between male/female as any correlation with depression gap?"
 - "Does unemployment gap as any correlation with male suicidal rates?"
 - "Does education level as any correlation with depression/suicidal rates?" 
-
+- "Do norther countries have more depression/suicidal rates?" 
 
 
 ## Data Workflow
