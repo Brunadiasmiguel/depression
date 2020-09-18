@@ -26,14 +26,24 @@ As a starting point, we put together several hypotheses that we would like to ta
 ## Datasets
 
 In order to explain the suicide rates and analyse our hypotheses, we search different datasets on different sources. The main dataset had global data on suicides by country, age and gender from 1985 to 2016 (the data had some gaps as expected). We used different datasets for different different goals, all CSV files:
+
 - rural_excel.xls
 - alcohol-1980-1999.csv
 - alcohol-2000-2009.csv
 - suicide_rate.csv
-- Suicidal rates
-- Depression rates
-- unemployment rates
-(check the ones we need)
+- suicide-death-rates-by-sex.csv
+- suicide-rates-by-age-detailed.csv
+- suicide-rates-vs-prevalence-of-depression.csv
+- depression-by-level-of-education-employment.csv
+- prevalence-of-depression-by-age.csv
+- prevalence-of-depression-males-vs-females.csv
+- female_unemployment.csv
+- male_unemployment.csv
+- human-development-index.csv
+- number-with-depression-by-country.csv
+- unemployment_rate.csv
+- world_happiness_index.csv
+
 
 
 ## Data Workflow
@@ -54,7 +64,7 @@ Our workflow organisation was set on Trello (link at the bottom of the file). Th
 
 ## Analysis
 
-For our analysis, we tried to match different variables with suicide rates taking into consideration a time series from 1985 to 2016 on a global scale (by country) as starting point. We tried to explain suicidade through depression, gender, age group, GDP, HDI, unemployment, urbanization (rural areas percentage), life ladder effect and education. Our analysis had several variables which made difficult a global model. We could see considerable trends with depression, gender, age group but overall we didn´t have enough support from data to correlate other variables on a global scale (although some trends were visible and would need deeper long-term analysis). Looking at our results, we spotted a clear trend on former Union of Soviet Socialist Republics (USSR) countries, which led us to a case study on USSR. After checking some legislation, besides the obvious effect of the country split, we found some potential connection to alcohol consumption, which we added to our initial hypotheses. Related to it, it is relevant to point out Gorbachev partial ban on alcohol in 1985, which lead to a economic crisis in the following years (less official drinkers, more home brewers, same social issues, less state revenue on alcohol taxes etc - link at the bottom og the page), that we also tried to correlate. Our model for USSR was a clear improvement on accurary to the general model and takes into consideration years, age and depression to explain suicide. All our in-deepth analysis can be found on the repository.
+For our analysis, we tried to match different variables with suicide rates taking into consideration a time series from 1985 to 2016 on a global scale (by country) as starting point. We tried to explain suicidade through depression, gender, age group, GDP, HDI, unemployment, urbanization (rural areas percentage), life ladder effect and education. We add several variables to try to explain  the suicide numbers which made more difficult reaching a global model. We could see considerable trends with depression, gender, age group but overall we didn´t have enough support from data to correlate other variables on a global scale (although some trends were visible and would need deeper long-term analysis). Looking at our results, we spotted a clear trend on former Union of Soviet Socialist Republics (USSR) countries, which led us to a case study on USSR. After checking some legislation, besides the obvious effect of the country split, we found some potential connection to alcohol consumption, which we added to our initial hypotheses. Related to it, it is relevant to point out Gorbachev partial ban on alcohol in 1985, which lead to a economic crisis in the following years (less official drinkers, more home brewers, same social issues, less state revenue on alcohol taxes etc - link at the bottom og the page), that we also tried to correlate. Our model for USSR was a clear improvement on accurary to the general model and takes into consideration years, age , gender, and depression to explain suicide. All our in-deepth analysis can be found on the repository.
 
 
 ## Problems encountered
@@ -76,10 +86,12 @@ Due to our large amount of data and general topic set up, we found some problems
 The repository is organised as:
 
 - data folder: containing all the datasets on dataset bullet point
-- data-wrangling folder: containing new merged datasets and jupyter notebooks
+- data-wrangling folder: containing new merged datasets and jupyter notebooks with some analysis
 - Analysis folder: jupyter notebooks with statistic analysis
 - Ploting folder: plots from jupyter notebook
 - Tableau Presentation folder: tableau file  
+
+
 
 
 ## Links
@@ -90,8 +102,11 @@ Trello: https://trello.com/b/n7YiMQcK/depressionproject
 
 Alcohol explanation: https://www.vice.com/en_uk/article/vv53q9/the-soviet-posters-meant-to-keep-russians-from-drinking
 
+Tableau Public: https://public.tableau.com/profile/joao4789#!/vizhome/Project_suicide_16004355393650/Story1?publish=yes
 
-main datasources: 
+
+
+## Main datasources: 
 
 <a href='https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016'>suicide-rates-overview-1985-to-2016</a>
 
